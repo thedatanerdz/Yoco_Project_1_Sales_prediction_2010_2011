@@ -13,3 +13,4 @@ airflow_settings.yaml
 terraform.tfstate
 terraform.tfstate.backup
 *.exe
+.astro/
