@@ -4,7 +4,7 @@ version: 2
 
 sources:
   - name: retail
-    database: airtube-390719 # Put the project id!
+    database: yoco-project-22221 # Put the project id!
 
     tables:
       - name: raw_invoices
