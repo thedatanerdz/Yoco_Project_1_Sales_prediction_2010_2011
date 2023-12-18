@@ -5,7 +5,7 @@
 - data orchestartion and workflow 
 - do data quality checks
 - do data transformations
-- create a dashboard of sales
+- Final output = create a dashboard of sales
 
 ## Tools
 - BigQuery
