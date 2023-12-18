@@ -1,2 +1,5 @@
 # Virtual Environment
 yoco_project_1/
+
+service_account.json
+secrets/
