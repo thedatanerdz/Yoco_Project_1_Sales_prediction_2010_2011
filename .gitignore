@@ -3,3 +3,13 @@ yoco_project_1/
 
 service_account.json
 secrets/
+
+configure.yaml
+airflow_settings.yaml
+
+# Ignore specific files
+*.tfstate
+*.tfstate.backup
+terraform.tfstate
+terraform.tfstate.backup
+*.exe
